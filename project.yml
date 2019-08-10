@@ -17,7 +17,7 @@
 # under the License.
 #
 
-project.name: "mynewt_arduino_zero"
+project.name: "lpc1769_hat"
 
 project.repositories:
     - apache-mynewt-core
