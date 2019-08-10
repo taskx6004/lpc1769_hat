@@ -1,0 +1,33 @@
+repo.name: lpc1769_hat
+repo.versions:
+    "0.0.0": "master"
+    "0.0.1": "master"
+    "0.8.0": "mynewt_arduino_zero_0_8_0_tag"
+    "0.9.0": "mynewt_arduino_zero_0_9_0_tag"
+    "0.9.9": "mynewt_1_0_0_b1_tag"
+    "0.9.99": "mynewt_1_0_0_b2_tag"
+    "0.9.999": "mynewt_1_0_0_rc1_tag"
+    "1.0.0": "mynewt_1_0_0_tag"
+    "1.1.0": "mynewt_1_1_0_tag"
+    "1.2.0": "mynewt_1_2_0_tag"
+    "1.3.0": "mynewt_1_3_0_tag"
+    "1.4.0": "mynewt_1_4_0_tag"
+    "1.4.1": "mynewt_1_4_1_tag"
+    "1.5.0": "mynewt_1_5_0_tag"
+    "1.6.0": "mynewt_1_6_0_tag"
+    "1.7.0": "mynewt_1_7_0_tag"
+
+    "0-latest": "1.7.0"
+    "1-latest": "1.7.0"
+    "0-dev": "0.0.0"        # master
+
+    "0.8-latest": "0.8.0"
+    "0.9-latest": "0.9.0"
+    "1.0-latest": "1.0.0"
+    "1.1-latest": "1.1.0"
+    "1.2-latest": "1.2.0"
+    "1.3-latest": "1.3.0"
+    "1.4-latest": "1.4.1"
+    "1.5-latest": "1.5.0"
+    "1.6-latest": "1.6.0"
+    "1.7-latest": "1.7.0"
